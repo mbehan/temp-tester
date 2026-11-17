@@ -1,29 +1,42 @@
 {
-  "title" : "Temp test site",
   "home_page_url" : "https://mbehan.github.io/temp-tester",
+  "language" : "en-IE",
+  "version" : "https://jsonfeed.org/version/1.1",
+  "title" : "Temp test site",
   "feed_url" : "https://mbehan.github.io/temp-tester/feeds/feed.json",
   "description" : "Your home on the internet.",
   "authors" : [
     {
-      "name" : "Michael",
-      "url" : "https://mbehan.github.io/temp-tester"
+      "url" : "https://mbehan.github.io/temp-tester",
+      "name" : "Michael"
     }
   ],
-  "language" : "en-IE",
   "items" : [
     {
-      "id" : "https://mbehan.github.io/temp-tester/index.html?post=422b6d32-8f3a-4d53-a155-3b11160b67c9",
-      "summary" : "Need brains",
-      "content_html" : "<article>\n  <p>Need brains</p>\n</article>",
       "date_published" : "2026-11-17T12:00:00Z",
+      "url" : "https://mbehan.github.io/temp-tester/index.html?post=42933135-2f9d-4c43-b81d-90b4a4e4c463",
       "authors" : [
         {
-          "name" : "Michael",
-          "url" : "https://mbehan.github.io/temp-tester"
+          "url" : "https://mbehan.github.io/temp-tester",
+          "name" : "Michael"
         }
       ],
+      "content_html" : "<article>\n  <figure><img src=\"https://mbehan.github.io/temp-tester/assets/posts/42933135-2f9d-4c43-b81d-90b4a4e4c463-1.jpg\" alt=\"A white goat with a black collar lying on hay.\"><figcaption>The goat</figcaption></figure>\n</article>",
+      "id" : "https://mbehan.github.io/temp-tester/index.html?post=42933135-2f9d-4c43-b81d-90b4a4e4c463",
+      "summary" : "A white goat with a black collar lying on hay."
+    },
+    {
+      "authors" : [
+        {
+          "url" : "https://mbehan.github.io/temp-tester",
+          "name" : "Michael"
+        }
+      ],
+      "id" : "https://mbehan.github.io/temp-tester/index.html?post=422b6d32-8f3a-4d53-a155-3b11160b67c9",
+      "content_html" : "<article>\n  <p>Need brains</p>\n</article>",
+      "summary" : "Need brains",
+      "date_published" : "2026-11-17T12:00:00Z",
       "url" : "https://mbehan.github.io/temp-tester/index.html?post=422b6d32-8f3a-4d53-a155-3b11160b67c9"
     }
-  ],
-  "version" : "https://jsonfeed.org/version/1.1"
+  ]
 }

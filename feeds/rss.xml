@@ -9,6 +9,16 @@
     <lastBuildDate>Tue, 17 Nov 2026 12:00:00 GMT</lastBuildDate>
     <atom:link href="https://mbehan.github.io/temp-tester/feeds/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <link>https://mbehan.github.io/temp-tester/index.html?post=42933135-2f9d-4c43-b81d-90b4a4e4c463</link>
+      <guid isPermaLink="true">https://mbehan.github.io/temp-tester/index.html?post=42933135-2f9d-4c43-b81d-90b4a4e4c463</guid>
+      <pubDate>Tue, 17 Nov 2026 12:00:00 GMT</pubDate>
+      <dc:creator>Michael</dc:creator>
+      <description>A white goat with a black collar lying on hay.</description>
+      <content:encoded><![CDATA[<article>
+  <figure><img src="https://mbehan.github.io/temp-tester/assets/posts/42933135-2f9d-4c43-b81d-90b4a4e4c463-1.jpg" alt="A white goat with a black collar lying on hay."><figcaption>The goat</figcaption></figure>
+</article>]]></content:encoded>
+    </item>
+    <item>
       <link>https://mbehan.github.io/temp-tester/index.html?post=422b6d32-8f3a-4d53-a155-3b11160b67c9</link>
       <guid isPermaLink="true">https://mbehan.github.io/temp-tester/index.html?post=422b6d32-8f3a-4d53-a155-3b11160b67c9</guid>
       <pubDate>Tue, 17 Nov 2026 12:00:00 GMT</pubDate>

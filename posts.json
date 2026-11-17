@@ -1,13 +1,26 @@
 [
   {
+    "id" : "42933135-2f9d-4c43-b81d-90b4a4e4c463",
+    "date" : "2026-11-17",
+    "content" : [
+      {
+        "type" : "image",
+        "src" : "assets/posts/42933135-2f9d-4c43-b81d-90b4a4e4c463-1.jpg",
+        "alt" : "A white goat with a black collar lying on hay.",
+        "caption" : "The goat"
+      }
+    ],
+    "emoji" : "📸"
+  },
+  {
     "emoji" : "🧠",
-    "id" : "422b6d32-8f3a-4d53-a155-3b11160b67c9",
     "content" : [
       {
         "type" : "paragraph",
         "text" : "Need brains"
       }
     ],
-    "date" : "2026-11-17"
+    "date" : "2026-11-17",
+    "id" : "422b6d32-8f3a-4d53-a155-3b11160b67c9"
   }
 ]
