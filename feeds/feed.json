@@ -1,17 +1,29 @@
 {
   "version" : "https://jsonfeed.org/version/1.1",
-  "title" : "Temp test site",
+  "items" : [
+    {
+      "content_html" : "<article>\n  <p>Need brains</p>\n</article>",
+      "date_published" : "2026-11-17T12:00:00Z",
+      "authors" : [
+        {
+          "url" : "https://mbehan.github.io/temp-tester",
+          "name" : "Your name here"
+        }
+      ],
+      "summary" : "Need brains",
+      "id" : "https://mbehan.github.io/temp-tester/index.html?post=422b6d32-8f3a-4d53-a155-3b11160b67c9",
+      "url" : "https://mbehan.github.io/temp-tester/index.html?post=422b6d32-8f3a-4d53-a155-3b11160b67c9"
+    }
+  ],
   "feed_url" : "https://mbehan.github.io/temp-tester/feeds/feed.json",
+  "home_page_url" : "https://mbehan.github.io/temp-tester",
   "description" : "Your home on the internet.",
+  "language" : "en-IE",
   "authors" : [
     {
       "url" : "https://mbehan.github.io/temp-tester",
       "name" : "Your name here"
     }
   ],
-  "language" : "en-IE",
-  "home_page_url" : "https://mbehan.github.io/temp-tester",
-  "items" : [
-
-  ]
+  "title" : "Temp test site"
 }
