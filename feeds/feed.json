@@ -1,17 +1,17 @@
 {
+  "title" : "Your site name",
+  "items" : [
+
+  ],
   "description" : "Your home on the internet.",
   "version" : "https://jsonfeed.org/version/1.1",
-  "language" : "en-IE",
   "home_page_url" : "https://mbehan.github.io/temp-tester",
-  "title" : "Your site name",
-  "feed_url" : "https://mbehan.github.io/temp-tester/feeds/feed.json",
   "authors" : [
     {
       "name" : "Your name here",
       "url" : "https://mbehan.github.io/temp-tester"
     }
   ],
-  "items" : [
-
-  ]
+  "language" : "en-IE",
+  "feed_url" : "https://mbehan.github.io/temp-tester/feeds/feed.json"
 }

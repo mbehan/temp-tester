@@ -1,68 +1,6 @@
 {
-  "theme" : {
-    "fontStylesheet" : "https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600;700;800;900&display=swap",
-    "colors" : {
-      "inverseText" : "#f7f2e8",
-      "surfaceBackground" : "#343536",
-      "pageText" : "#f7f2e8",
-      "controlHoverBackground" : "rgba(255, 255, 255, 0.12)",
-      "inverseBackground" : "#16181b",
-      "syntaxKeyword" : "#ff7b72",
-      "syntaxLiteral" : "#a5d6ff",
-      "pageBackground" : "#292a2b",
-      "syntaxMeta" : "#ffa657",
-      "accent" : "#f8d66d",
-      "postSurfaceBackground" : "#ffffff",
-      "syntaxComment" : "#8b949e",
-      "syntaxType" : "#79c0ff",
-      "controlBackground" : "rgba(255, 255, 255, 0.055)",
-      "postText" : "#17191b"
-    },
-    "shadows" : {
-      "post" : "0 12px 0 rgba(0, 0, 0, 0.16), 0 26px 48px rgba(0, 0, 0, 0.18)",
-      "postHover" : "0 18px 0 rgba(0, 0, 0, 0.13), 0 34px 58px rgba(0, 0, 0, 0.28)",
-      "content" : "0 8px 18px rgba(0, 0, 0, 0.16)",
-      "surface" : "0 24px 60px rgba(0, 0, 0, 0.28)"
-    },
-    "fontSizes" : {
-      "profileHeading" : "clamp(2.2rem, 3.7vw, 3.2rem)",
-      "profileBio" : "1.15rem",
-      "profileHeadingMobile" : "clamp(2.1rem, 11vw, 3.6rem)",
-      "postText" : "clamp(1.3rem, 2.6vw, 1.75rem)",
-      "postBody" : "clamp(1.02rem, 1.7vw, 1.22rem)",
-      "supportingText" : "1rem",
-      "code" : "0.85rem",
-      "postEmoji" : "3.15rem",
-      "postEmojiMobile" : "2.55rem",
-      "defaultText" : "20px",
-      "defaultTextMobile" : "18px"
-    },
-    "fontFamily" : "\"Source Sans 3\", \"Source Sans Pro\", system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif",
-    "postBackgrounds" : [
-      "#f8d66d",
-      "#9ee6c9",
-      "#ffb3ba",
-      "#b8d8ff",
-      "#ffd0a6",
-      "#c9f284",
-      "#f5c2ff",
-      "#ace7ef",
-      "#ffef99",
-      "#d7c7ff"
-    ],
-    "colorScheme" : "dark",
-    "radii" : {
-      "linkPreview" : "16px",
-      "linkPreviewImage" : "12px",
-      "emoji" : "20px",
-      "card" : "24px",
-      "profilePhoto" : "26px",
-      "media" : "18px",
-      "control" : "999px"
-    }
-  },
   "profile" : {
-    "bio" : "A little about you can go here.",
+    "handle" : "",
     "links" : [
       {
         "label" : "RSS",
@@ -78,13 +16,7 @@
     "photoAlt" : "Placeholder silhouette for your profile photo",
     "name" : "Your name here",
     "location" : "Your location",
-    "handle" : ""
-  },
-  "site" : {
-    "title" : "Your site name",
-    "language" : "en-IE",
-    "description" : "Your home on the internet.",
-    "url" : "https://mbehan.github.io/temp-tester/"
+    "bio" : "A little about you can go here."
   },
   "features" : {
     "openmoji" : true,
@@ -94,12 +26,60 @@
     "postHoverRotation" : true,
     "postHoverShadow" : true
   },
-  "assets" : {
-    "favicon32" : "assets/site/favicons/favicon-32.png",
-    "favicon16" : "assets/site/favicons/favicon-16.png",
-    "appleTouchIcon" : "assets/site/favicons/apple-touch-icon.png",
-    "profilePhoto" : "assets/site/profile-placeholder.jpg",
-    "shortcutIcon" : "assets/site/favicons/favicon.ico"
+  "theme" : {
+    "postBackgrounds" : [
+      "#000000",
+      "#1A1A1A",
+      "#282828"
+    ],
+    "fontFamily" : "\"Menlo\", system-ui, -apple-system, BlinkMacSystemFont, sans-serif",
+    "colors" : {
+      "surfaceBackground" : "#121212",
+      "postText" : "#FFFFFF",
+      "controlBackground" : "#1E1E1E",
+      "syntaxMeta" : "#AAAAAA",
+      "accent" : "#FFFFFF",
+      "syntaxComment" : "#888888",
+      "postSurfaceBackground" : "#1E1E1E",
+      "pageBackground" : "#000000",
+      "controlHoverBackground" : "#2A2A2A",
+      "inverseText" : "#FFFFFF",
+      "syntaxType" : "#8B8B8B",
+      "syntaxLiteral" : "#CCCCCC",
+      "inverseBackground" : "#0A0A0A",
+      "syntaxKeyword" : "#00FF00",
+      "pageText" : "#FFFFFF"
+    },
+    "radii" : {
+      "linkPreviewImage" : "12px",
+      "media" : "12px",
+      "card" : "8px",
+      "control" : "8px",
+      "profilePhoto" : "50%",
+      "linkPreview" : "16px",
+      "emoji" : "20px"
+    },
+    "fontSizes" : {
+      "postEmojiMobile" : "14px",
+      "profileHeading" : "24px",
+      "postText" : "16px",
+      "postBody" : "18px",
+      "defaultText" : "14px",
+      "code" : "14px",
+      "postEmoji" : "16px",
+      "profileHeadingMobile" : "18px",
+      "supportingText" : "12px",
+      "profileBio" : "12px",
+      "defaultTextMobile" : "16px"
+    },
+    "shadows" : {
+      "surface" : "-2px -4px 10px 6px rgba(0, 0, 0, 0.3",
+      "content" : "inset -1px -1px 6px 3px rgba(0, 0, 0, 0.18",
+      "post" : "0px 2px 8px 4px rgba(0, 0, 0, 0.2",
+      "postHover" : "-4px -3px 14px 10px rgba(0, 0, 0, 0.4"
+    },
+    "colorScheme" : "dark",
+    "fontStylesheet" : ""
   },
   "labels" : {
     "icon" : "icon",
@@ -150,5 +130,18 @@
     "videoPost" : "Video post",
     "moreImagesOther" : "{count} more images",
     "rssTitle" : "{title} RSS"
+  },
+  "assets" : {
+    "favicon32" : "assets/site/favicons/favicon-32.png",
+    "favicon16" : "assets/site/favicons/favicon-16.png",
+    "appleTouchIcon" : "assets/site/favicons/apple-touch-icon.png",
+    "profilePhoto" : "assets/site/profile-placeholder.jpg",
+    "shortcutIcon" : "assets/site/favicons/favicon.ico"
+  },
+  "site" : {
+    "language" : "en-IE",
+    "title" : "Your site name",
+    "description" : "Your home on the internet.",
+    "url" : "https://mbehan.github.io/temp-tester/"
   }
 }
