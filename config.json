@@ -1,0 +1,154 @@
+{
+  "site": {
+    "title": "Your site name",
+    "description": "Your home on the internet.",
+    "url": "https://example.com",
+    "language": "en-IE"
+  },
+  "profile": {
+    "name": "Your name here",
+    "handle": "",
+    "bio": "A little about you can go here.",
+    "photoAlt": "Placeholder silhouette for your profile photo",
+    "location": "Your location",
+    "links": [
+      {
+        "label": "RSS",
+        "url": "feeds/rss.xml",
+        "emoji": "🛰️"
+      },
+      {
+        "label": "JSON Feed",
+        "url": "feeds/feed.json",
+        "emoji": "🛰️"
+      }
+    ]
+  },
+  "assets": {
+    "profilePhoto": "assets/site/profile-placeholder.jpg",
+    "favicon32": "assets/site/favicons/favicon-32.png",
+    "favicon16": "assets/site/favicons/favicon-16.png",
+    "appleTouchIcon": "assets/site/favicons/apple-touch-icon.png",
+    "shortcutIcon": "assets/site/favicons/favicon.ico"
+  },
+  "features": {
+    "openmoji": true,
+    "postEmoji": true,
+    "postHandle": true,
+    "filterByEmoji": true,
+    "postHoverRotation": true,
+    "postHoverShadow": true
+  },
+  "theme": {
+    "colorScheme": "dark",
+    "fontFamily": "\"Source Sans 3\", \"Source Sans Pro\", system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif",
+    "fontStylesheet": "https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600;700;800;900&display=swap",
+    "colors": {
+      "pageBackground": "#292a2b",
+      "pageText": "#f7f2e8",
+      "surfaceBackground": "#343536",
+      "accent": "#f8d66d",
+      "controlBackground": "rgba(255, 255, 255, 0.055)",
+      "controlHoverBackground": "rgba(255, 255, 255, 0.12)",
+      "postText": "#17191b",
+      "postSurfaceBackground": "#ffffff",
+      "inverseBackground": "#16181b",
+      "inverseText": "#f7f2e8",
+      "syntaxKeyword": "#ff7b72",
+      "syntaxType": "#79c0ff",
+      "syntaxLiteral": "#a5d6ff",
+      "syntaxComment": "#8b949e",
+      "syntaxMeta": "#ffa657"
+    },
+    "shadows": {
+      "surface": "0 24px 60px rgba(0, 0, 0, 0.28)",
+      "post": "0 12px 0 rgba(0, 0, 0, 0.16), 0 26px 48px rgba(0, 0, 0, 0.18)",
+      "postHover": "0 18px 0 rgba(0, 0, 0, 0.13), 0 34px 58px rgba(0, 0, 0, 0.28)",
+      "content": "0 8px 18px rgba(0, 0, 0, 0.16)"
+    },
+    "fontSizes": {
+      "defaultText": "20px",
+      "defaultTextMobile": "18px",
+      "profileHeading": "clamp(2.2rem, 3.7vw, 3.2rem)",
+      "profileHeadingMobile": "clamp(2.1rem, 11vw, 3.6rem)",
+      "profileBio": "1.15rem",
+      "postText": "clamp(1.3rem, 2.6vw, 1.75rem)",
+      "postBody": "clamp(1.02rem, 1.7vw, 1.22rem)",
+      "supportingText": "1rem",
+      "code": "0.85rem",
+      "postEmoji": "3.15rem",
+      "postEmojiMobile": "2.55rem"
+    },
+    "radii": {
+      "card": "24px",
+      "profilePhoto": "26px",
+      "emoji": "20px",
+      "media": "18px",
+      "linkPreview": "16px",
+      "linkPreviewImage": "12px",
+      "control": "999px"
+    },
+    "postBackgrounds": [
+      "#f8d66d",
+      "#9ee6c9",
+      "#ffb3ba",
+      "#b8d8ff",
+      "#ffd0a6",
+      "#c9f284",
+      "#f5c2ff",
+      "#ace7ef",
+      "#ffef99",
+      "#d7c7ff"
+    ]
+  },
+  "labels": {
+    "latestPosts": "latest posts",
+    "backToFeed": "← Back to feed",
+    "previousPost": "← Previous",
+    "nextPost": "Next →",
+    "pinned": "Pinned",
+    "thread": "Thread",
+    "threadReplies": "Thread replies",
+    "wrapCode": "Wrap code",
+    "unwrapCode": "Unwrap code",
+    "missingPost": "That post seems to have wandered off.",
+    "emptyFilter": "Nothing in the feed matches that icon.",
+    "loadError": "Posts could not be loaded.",
+    "previousPage": "← Previous",
+    "nextPage": "Next →",
+    "moreInside": "More inside",
+    "pageStatus": "Page {page} of {pages}",
+    "postRange": "{start}-{end} of {total}",
+    "postCountOne": "{count} post",
+    "postCountOther": "{count} posts",
+    "today": "today",
+    "daysAgoOne": "{count} day ago",
+    "daysAgoOther": "{count} days ago",
+    "code": "Code",
+    "video": "Video",
+    "videoPreview": "Video preview",
+    "playVideo": "Play video",
+    "galleryCount": "+{count}",
+    "moreImagesOne": "{count} more image",
+    "moreImagesOther": "{count} more images",
+    "profileRegion": "Profile",
+    "postsRegion": "Posts",
+    "profileDetails": "Profile details",
+    "feedsNavigation": "Feeds",
+    "postNavigation": "Post navigation",
+    "feedFilter": "Feed filter",
+    "feedPagination": "Feed pagination",
+    "openPost": "Open post by {author}",
+    "openThread": "Open thread by {author}",
+    "openThreadReply": "Open thread reply by {author}",
+    "filterPosts": "Filter posts by {icon}",
+    "clearFilter": "Clear {icon} filter",
+    "icon": "icon",
+    "thisIcon": "this icon",
+    "photoPost": "Photo post",
+    "videoPost": "Video post",
+    "postBy": "Post by {author}",
+    "rssTitle": "{title} RSS",
+    "jsonFeedTitle": "{title} JSON Feed"
+  }
+}
