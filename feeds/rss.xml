@@ -4,7 +4,7 @@
     <title>Temp test site</title>
     <link>https://mbehan.github.io/temp-tester</link>
     <description>Your home on the internet.</description>
-    <dc:creator>Your name here</dc:creator>
+    <dc:creator>Michael</dc:creator>
     <language>en-IE</language>
     <lastBuildDate>Tue, 17 Nov 2026 12:00:00 GMT</lastBuildDate>
     <atom:link href="https://mbehan.github.io/temp-tester/feeds/rss.xml" rel="self" type="application/rss+xml" />
@@ -12,7 +12,7 @@
       <link>https://mbehan.github.io/temp-tester/index.html?post=422b6d32-8f3a-4d53-a155-3b11160b67c9</link>
       <guid isPermaLink="true">https://mbehan.github.io/temp-tester/index.html?post=422b6d32-8f3a-4d53-a155-3b11160b67c9</guid>
       <pubDate>Tue, 17 Nov 2026 12:00:00 GMT</pubDate>
-      <dc:creator>Your name here</dc:creator>
+      <dc:creator>Michael</dc:creator>
       <description>Need brains</description>
       <content:encoded><![CDATA[<article>
   <p>Need brains</p>
